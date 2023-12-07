@@ -83,4 +83,4 @@ Step 14.1: You should start to see the startup process from Windows and it's pre
 
 Step 14.2: Continue your first Windows startup by signing in, setting passwords, and personal prefrences.
 
-Step 14.3: After a potential restart by Windows, you should be on the home desktop of your new PC.
+Step 14.3: After a few potential restart by Windows, you should be on the home desktop of your new PC.
