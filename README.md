@@ -6,7 +6,7 @@ I'm going to be explaining all the parts and components you will need to build t
 
 # Target Audience
 
-This tutorial is intended for people who want to maybe save a little money on a PC, who might want to learn the skill on how to build a PC to their own desires, or more than likely someone who just wants to play the newest AAA game at MAX settings and frames. 
+This tutorial is intended for people who want to maybe save a little money on a PC, who might want to learn the skill on how to build a PC to their own desires, or more than likely someone who just wants to play the newest AAA game at MAX graphics settings and high frame rates. 
 
 # Tools Requried: 
 
