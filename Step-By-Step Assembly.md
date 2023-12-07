@@ -67,7 +67,7 @@ Step 12: If you followed my instructions and didn't mount your PSU in the case u
 
 Step 12.1: Finish up any cable management and start to install your PC case panels back on to cover up your cable management mess. 
 
-# And now at this point you have built yourself your very own PC. It seems like a lot at first, but once you do 2-3 builds, it gets pretty simple after that. BUT AGAIN, we're almost done, but not 100%. We stil need to install our operating system and drivers!
+# By this point, you will have built yourself your very own PC. It seems like a lot at first, but once you do 2-3 builds, it gets pretty simple after that. BUT AGAIN, we're almost done, but not 100%. We stil need to install our operating system and drivers!
 
 Step 13: On a computer or laptop that you already have and works, go to Microsoft's website by searching up on any web browser, "Create installation media for Windows". 
 
