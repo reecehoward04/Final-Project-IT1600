@@ -1,4 +1,4 @@
-Step-by-Step Assembly:
+# Step-by-Step Assembly:
 
 Step 1: (Prepare the Workspace) Clear a spacious, well lit area. Use an anti-static wrist strap or touch a grounded metal object to discharge static electricty. If you DON'T ground yourself, you could end up 
 sending an electric shock through one of your components and fry it!)
@@ -10,7 +10,7 @@ Step 3: (Install the CPU) Open the CPU socket on the motherboard. Align the CPU 
 Step 4: (Install RAM) Refer to the motherboard manual for RAM slot placement (IT MATTERS). Open the RAM slots and align the notches on the RAM stick with the slot, then press down on both ends of the stick until 
 it click into place.)
 
-Depending on what parts you bought, the next steps may come easier or harder for you when you continue building, but this tutorial I'm going to be using the example parts I listed and how I find building a PC this way tends to be a little easier and you have more room to work with.
+# Depending on what parts you bought, the next steps may come easier or harder for you when you continue building, but this tutorial I'm going to be using the example parts I listed and how I find building a PC this way tends to be a little easier and you have more room to work with.
 
 Step 5: (Install Storage) If we bought a motherboard with an M.2 drive slot on it (which most new ones have) then that's 2 less cables we have to manage and run from the powersupply to the motherboard since the M.2 drive installs directly onto the motherboard. Refer to your motherboard maunel for M.2 slots and where you should install them.
 
@@ -67,7 +67,7 @@ Step 12: If you followed my instructions and didn't mount your PSU in the case u
 
 Step 12.1: Finish up any cable management and start to install your PC case panels back on to cover up your cable management mess. 
 
-And now at this point you have built yourself your very own PC. It seems like a lot at first, but once you do 2-3 builds, it gets pretty simple after that. BUT AGAIN, we're almost done, but not 100%. We stil need to install our operating system.
+# And now at this point you have built yourself your very own PC. It seems like a lot at first, but once you do 2-3 builds, it gets pretty simple after that. BUT AGAIN, we're almost done, but not 100%. We stil need to install our operating system and drivers!
 
 Step 13: On a computer or laptop that you already have and works, go to Microsoft's website by searching up on any web browser, "Create installation media for Windows". 
 
