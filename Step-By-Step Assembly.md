@@ -1,7 +1,6 @@
 # Step-by-Step Assembly:
 
-Step 1: (Prepare the Workspace) Clear a spacious, well lit area. Use an anti-static wrist strap or touch a grounded metal object to discharge static electricty. If you DON'T ground yourself, you could end up 
-sending an electric shock through one of your components and fry it!)
+Step 1: (Prepare the Workspace) Clear a spacious, well lit area. Use an anti-static wrist strap or touch a grounded metal object to discharge static electricty. (It takes ALOT of static electircity to ruin a PC component but if you DON'T ground yourself, you could end up sending an electric shock through one of your components and fry it!)
 
 Step 2: (Prepare the Motherboard) Once you made sure you are grounded, take out the motherboard and lay it on a flat surface and place the anti-static bag the MOBO came in underneath the board. 
 
