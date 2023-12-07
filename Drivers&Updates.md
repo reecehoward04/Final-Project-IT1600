@@ -1,6 +1,6 @@
 # Drivers and Updates
 
-From here, you would want to be installing any new BIOS updates, windows drivers or software directly on your new computer. When it comes to installing new drivers and software, it's pretty much up to you what you want to do with your computer. I would recommend updating any Windows Updates, your graphics card drivers and your motherboard BIOS. The way people go about updating everything varies depending on what type of motherboard you bought and graphics card. 
+From here, you would want to be installing any new BIOS updates, Windows drivers or software directly on your new computer. When it comes to installing new drivers and software, it's pretty much up to you what you want to do with your computer. I would recommend updating any Windows Updates, your graphics card drivers and your motherboard BIOS. The way people go about updating everything varies depending on what type of motherboard you bought and graphics card. 
 
 # Windows Drivers/Updates
 
