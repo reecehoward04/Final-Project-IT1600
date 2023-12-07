@@ -33,6 +33,6 @@ Step 5: Download and update your graphics card drivers.
 
 Step 6: Let your new graphics card drivers install, your PC may restart when this happens.
 
-# And finally, after building, troubleshooting, installing new drivers & updates, you are now ready to use your computer! 
+# And finally, after building, troubleshooting, installing new drivers & updates, you are now ready to use your newly built computer! 
 
 [Back to README](README.md)
