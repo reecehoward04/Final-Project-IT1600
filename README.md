@@ -11,12 +11,12 @@ Step 1: Decide on your budget, what you will overall be doing (gaming, content c
 
 Step 2: Purchase all necessary computer parts:
 
-CPU - (Central Processing Unit) - EX: Intel Core i5-14600KF (The newest generation of Intel processors released this year, and the i5 is a great choice for whatever you might be doing!)
+CPU - (Central Processing Unit) - EX: Intel Core i5-14600KF (This is the brain of the computer that pretty much tells all the other components in your build what they need to do! The newest generation of Intel processors released this year, and the i5 is a great choice for whatever you might be doing!)
 
-CPU Cooler - EX: NZXT Kraken 240mm AIO CPU Cooler (There are 2 ways you can cool your CPU, air-cooling or liquid-cooling. Liquid cooling tends to be more effiencent at keeping your CPU cool compared to the stock fan CPU cooler you might get with your processor. Nowadays AIO (All-In-One) cpu cooler make it every easy to install and setup, compared to when you bought and installed flexible tubing and you had to 
-fill the tubes up with cooling liquid yourself! I would personally take liquid over air cooling anyday!)
+CPU Cooler - EX: NZXT Kraken 240mm AIO CPU Cooler (There are multiple ways you can cool your CPU, mainly air-cooling or liquid-cooling. Liquid cooling tends to be more effiencent at keeping your CPU cool compared to a stock fan CPU cooler you might get with your processor. Nowadays AIO (All-In-One) cpu coolers make it very easy to install and setup, compared to when you bought and installed flexible tubing and you had to 
+fill the tubes up with cooling liquid yourself! I would personally take AIO liquid cooling over air cooling anyday!)
         
-MOBO - (Motherboard) - EX: ASUS ROG Strix Z790-F (LGA 1700) (NOTE: When buying your CPU & MOBO, make sure your CPU and MOBO are compatible with each other! An AMD processor would not work with this example motherboard.)
+MOBO - (Motherboard) - EX: ASUS ROG Strix Z790-F (LGA 1700) (There are many different motherboard brands out on the market, the way you would go about buying your MOBO, would be to reserach what you will need on your motherboard so all your other parts are compatible with it! NOTE: When buying your CPU & MOBO, make sure your CPU and MOBO are compatible with each other! An AMD processor would not work with this example motherboard I provided since it has an LGA socket for Intel CPUs and not an AM4 socket for AMD.)
         
 RAM - (Random-access memory) - EX: Corsair VENGEANCE DDR4 RAM (16gb of RAM I would say is the sweet spot right now for the amount of RAM you need, but for just general school work and browsing, 8gb of RAM will work just fine also.)
 
