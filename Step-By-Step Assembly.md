@@ -10,7 +10,7 @@ Step 3: (Install the CPU) Open the CPU socket on the motherboard. Align the CPU 
 Step 4: (Install RAM) Refer to the motherboard manual for RAM slot placement (IT MATTERS). Open the RAM slots and align the notches on the RAM stick with the slot, then press down on both ends of the stick until 
 it click into place.)
 
-# Depending on what parts you bought, the next steps may come easier or harder for you when you continue building, but this tutorial I'm going to be using the example parts I listed and how I find building a PC this way tends to be a little easier and you have more room to work with.
+# Depending on what parts you bought, the next steps may come easier or harder for you when you continue building, but in this tutorial, I'm going to be using the example parts I listed and how I find building a PC this way tends to be a little easier and you have more room to work with.
 
 Step 5: (Install Storage) If we bought a motherboard with an M.2 drive slot on it (which most new ones have) then that's 2 less cables we have to manage and run from the powersupply to the motherboard since the M.2 drive installs directly onto the motherboard. Refer to your motherboard maunel for M.2 slots and where you should install them.
 
