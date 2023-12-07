@@ -7,7 +7,7 @@ Step 2: (Prepare the Motherboard) Once you made sure you are grounded, take out 
 Step 3: (Install the CPU) Open the CPU socket on the motherboard. Align the CPU with the socket and gently place it in, ensuring the pins or contacts match. (There's usually a little arrow or pointer on the corner of the CPU and CPU socket on the MOBO that match up.) (You want to make sure you insert your RAM sticks in the correct slots, usually slots 02 & 04, for dual-channel memory support so your computer uses all the memory you installed.)
 
 Step 4: (Install RAM) Refer to the motherboard manual for RAM slot placement (IT MATTERS). Open the RAM slots and align the notches on the RAM stick with the slot, then press down on both ends of the stick until 
-it click into place.)
+it click into place.) (Make sure you insert the RAM sticks in the dual-channel slots on the MOBO, usually slots 02 & 04, because if you don't, your computer will not read your full amount of RAM you installed.)
 
 # Depending on what parts you bought, the next steps may come easier or harder for you when you continue building, but in this tutorial, I'm going to be using the example parts I listed and how I find building a PC this way tends to be a little easier and you have more room to work with.
 
