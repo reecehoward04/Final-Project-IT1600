@@ -2,6 +2,8 @@
 
 # Step 1: Decide on your budget, what you will overall be doing (gaming, content creation, school, general use), and research what parts would handle your needs best.
 
+This link will take you to Microsoft's website that will guide you on picking out which PC parts will suit your needs best! https://www.microsoft.com/en-us/windows/help-me-choose
+
 # Step 2: Purchase all necessary computer parts:
 
 CPU - (Central Processing Unit) - EX: Intel Core i5-14600KF (This is the brain of the computer that pretty much tells all the other components in your build what they need to do! The newest generation of Intel processors released this year, and the i5 is a great choice for whatever you might be doing!)
