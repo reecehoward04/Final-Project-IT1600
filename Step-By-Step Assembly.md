@@ -67,9 +67,9 @@ Step 12: If you followed my instructions and didn't mount your PSU in the case u
 
 Step 12.1: Finish up any cable management and start to install your PC case panels back on to cover up your cable management mess. 
 
-# By this point, you will have built yourself your very own PC. It seems like a lot at first, but once you do 2-3 builds, it gets pretty simple after that. BUT AGAIN, we're almost done, but not 100%. We stil need to install our operating system and drivers!
+# By this point, you will have built yourself your very own PC! It seems like a lot at first, but once you do 2-3 builds, it gets pretty simple after that. BUT, we're almost done, not 100%. We still need to install our operating system (Windows 10/11)
 
-Step 13: On a computer or laptop that you already have and works, go to Microsoft's website by searching up on any web browser, "Create installation media for Windows". 
+Step 13: On a computer or laptop that you already have and works, go to Microsoft's website by searching up on any web browser, "Create installation media for Windows". https://support.microsoft.com/en-us/windows/create-installation-media-for-windows-99a58364-8c02-206f-aa6f-40c3b507420d
 
 Step 13.1: You will need a USB flash drive with at least 8gb of storage or more plugged into your computer to create your Windows installation device. 
 
