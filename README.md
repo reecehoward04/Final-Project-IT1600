@@ -57,11 +57,17 @@ Step 6: (Install the MOBO in Case) After prepping the motherboard with the CPU, 
 Step 7: (Install CPU Cooler) Again, depending on the CPU cooler you buy, it make be a simple install or it could become really difficult. The AIO cooler I talked about is pretty easy to install. 
         
 Step 7.1: First, you want to mount all of the fans provided in the CPU cooler box to the radiator the correct way (refer to the CPU Cooler manuel for which way they get mounted). 
+
 Step 7.2: Once you mounted the fans to the radiator, you want to locate a spot in your case where you want to mount the radiator/fans. 
+
 Step 7.3: Then once the radiator is mounted in the case, the other end of the AIO cooler which carries your liquid coolant to from your radiator to the CPU cooler, needs to be mounted on top of your CPU/socket. 
+
 Step 7.4: Usually with an AIO like this, a back-plate that's provided gets mounted/installed on the back of the motherboard on the other side of the case. You can usually see 4 corner holes around the CPU socket on the back of the motherboard where the bracket goes. (NOTE: THERE CAN DIFFERENT WAYS AIO brackets get installed, PLEASE refer to the manual to see the manufactuers steps.)
+
 Step 7.5: Once the back CPU cooler bracket is installed, you can take the block (what cools the cpu) and remove the platic shielding protecing the thermal paste.
+
 Step 7.6: Very carefully, place the cooling block on the CPU socket and screw in the 4 screws on top to press and hold down the cpu cooler on top of the CPU in place!
+
 Step 7.7: There should be lots of cords with an AIO cpu cooler, I would be trying to get most of those lines hidden in the back of the case where they can't be seen, but I do know the AIO fan pump power is a short cord usually connected to the cooling block you installed just before that gets plugged in from there to the top right of one of your motherboard pins (Refer to your motherboard maunal to locate the correct pin location and refer to AIO Cooler manual on how you connect everything on the back side.)
         
 Step 8: (Installing the PSU) (NOTE: IT IS USUALLY EASIER TO PLUG EVERYTHING IN FROM THE PSU TO MOBO FIRST, THEN MOUNT THE PSU INTO THE CASE.) The power supply unit is pretty simple to install, it usually gets installed on the bottem/back side of the computer where your MOBO and GPU plug-ins (ports) are located also. Make sure you are installing the PSU the correct facing way for the fan on the PSU to keep the 
@@ -70,21 +76,29 @@ component cool while running (This usually depends on where you're installing th
 Step 9: (Pluging in everything) By this point, you probably have a good amount of cables your staring at wondering where to start next. Usually when it comes to the PSU cables and plugging in everything, they are responsible for providing power throughout the entire PC. You want to try to keep the cables as straight and as tight as possible to the back side of the case so you don't end up with a rats nest at the end. Usually the PC case box provides zip ties so you can cable manage on the back of the PC, but trust me, it's hard to cable manage sometimes and it depends on the amount of space you have in the case overall. This is how I would plug everything in one at a time. (I WOULD HAVE THE MOTHERBOARD MANUAL PROVIDED READY SO YOU CAN SEE ALL THE CORRECT LOCATIONS WHERE EVERYTHING NEEDS TO GO)
         
 Step 9.1: I would start by plugging in the motherboard cord (MB) from the powersupply to give my overall system power. (Usually located on the right side facing the MOBO)
+
 Step 9.2: Then plug the (CPU1) cord from the PSU onto the motherboard to provide the CPU power. (Usually located on the top left/middle of the MOBO)
+
 Step 9.3: Plug in all the front panel connecions that were pre-installed into the case (Power button, reset, front panel, HD audio, USB ports, ect...) into the correct pins on the bottom of the motherboard. (Usually located on the bottem of the motherboard)
+
 Step 9.4: The SATA1 & SATA2 ports on the powersupply will provide power to the AIO cpu cooler radiator and fans connected to it. There's usually a little fan controller that gets mounted via double-sided sticky tape on the back inside of the PC case (behind the motherboard), which is where you plug in all your fan cords too. (Refer to your AIO manual to see the exact locations for where everything gets plugged into)
+
 Step 9.5: By this point, you probably have a rats nest of cords, try using zip ties or any velcro tape to organzie your cables as best as your can. (Don't be suprised if itsn't perfect at first, it takes time to cable manage)
 
 Step 10: All that is left is to install our graphics card onto the motherboard (usually below the CPU socket and RAM slots). There is usually a couple of PCIe slots. Depending on the GPU you picked out, it may be too big/large to fit on the top PCIe slot on the motherboard, so you may have to move the GPU to a slot below where it can fit in the case/on the MOBO properly. Which will determine which PCIe plate bracket you will remove on the back of your case. 
         
 Step 10.1: On the back of the PC Case, there should be some skinny metal brackets located around underneath your motherboard ports that you can unscrew from the outside. Removing this bracket will allow the display outputs on the GPU that you are going to install to be shown and used on the back of the PC.
+
 Step 10.2: After determining what PCIe slot you will use on the MOBO and what PCIe plate brackets you removed on the back of the pc for your diplay outputs, you can take your GPU and install it into the PCIe slot.
+
 Step 10.3: The GPU is now seated onto the PCIe slot on the Motherboard, take the VGA1 cable from the powersupply and plug it into the GPU and run the cord back to the powersupply and plug it in.
 
 Step 11: By this point, your PC should power on if you did everything correctly and decided to just stop after the most previous step.
         
 Step 11.1: Attempt to power on your PC by hitting the power button on the front. (MAKE SURE YOU PLUG IN YOUR FRONT PANEL CABLES OR YOUR POWER BUTTON WILL NOT WORK! AND MAKE SURE YOU HAVE ALL YOUR CABLES CONNECTED PROPERLY!)
+
 Step 11.2: If you start to see life/power in your computer, you will see usually on the motherboard a sequence of colors (USUALLY Green, Yellow, and Red) indicating the POST process of bringing all your computer parts to life. If everything goes well, you're computer should boot into the BIOS of your Motherboard. From there, you can usually see all the componenets you got connected to the PC running.
+
 Step 11.3: Power down your computer and unplug the cord from your power outlet to your power supply. 
 
 Step 12: If you followed my instructions and didn't mount your PSU in the case until the end, that would be my next step for you to do. But if it's already mounted in the case, then you can continue reading.
@@ -96,13 +110,17 @@ And now at this point you have built yourself your very own PC. It seems like a 
 Step 13: On a computer or laptop that you already have and works, go to Microsoft's website by searching up on any web browser, "Create installation media for Windows". 
 
 Step 13.1: You will need a USB flash drive with at least 8gb of storage or more plugged into your computer to create your Windows installation device. 
+
 Step 13.2: Follow the steps on Microsoft's website to download the windows media installation, it will ask a couple of questions on where you would like to create a windows installation drive, and you will choose the USB thumb drive you plugged into your computer.
+
 Step 13.3: After the program installs the Windows Media Installation on the USB thumbdrive, you can remove it from your computer and go plug it into your new desktop you just built.
 
 Step 14: After plugging in your windows installation media usb to your computer, you can power on your computer and with the USB inserted.
 
 Step 14.1: You should start to see the startup process from Windows and it's pretty simple from here.
+
 Step 14.2: Continue your first Windows startup by signing in, setting passwords, and personal prefrences.
+
 Step 14.3: After a potential restart by Windows, you should be on the home desktop of your new PC.
 
 Step 15: From here, you would want to be installing any new BIOS updates, windows drivers or software directly on your new computer. When it comes to installing new drivers and software, this is it's pretty much up to you what you want to do with your computer. I would reccommend updating any Windows Updates, your graphics card drivers and your motherboard BIOS. The way people go about updating everything varies depending on what type of motherboard you bought and graphics card. So this is the end of my little tutorial, I hope you learned something from reading this and may of helped you build your first PC a little bit easier. 
