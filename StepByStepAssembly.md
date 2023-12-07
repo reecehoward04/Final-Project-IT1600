@@ -4,7 +4,7 @@ Step 1: (Prepare the Workspace) Clear a spacious, well lit area. Use an anti-sta
 
 Step 2: (Prepare the Motherboard) Once you made sure you are grounded, take out the motherboard and lay it on a flat surface and place the anti-static bag the MOBO came in underneath the board so that your motherboard is laying on top of the plastic. (This helps reduce static electricity.)
 
-Step 3: (Install the CPU) Open the CPU socket on the motherboard. Align the CPU with the socket and gently place it in, ensuring the pins or contacts match. (There's usually a little arrow or pointer on the corner of the CPU and CPU socket on the MOBO that match up.
+Step 3: (Install the CPU) Open the CPU socket on the motherboard. Align the CPU with the socket and gently place it in, ensuring the pins or contacts match. (There's usually a little arrow or pointer on the corner of the CPU and CPU socket on the MOBO that match up.)
 
 Step 4: (Install RAM) Refer to the motherboard manual for RAM slot placement (IT MATTERS). Open the RAM slots and align the notches on the RAM stick with the slot, then press down on both ends of the stick until 
 it click into place.)
