@@ -6,4 +6,4 @@ This tutorial is intended for people who want to maybe save a little money and b
 Tools Requried: Philips #2 Screwdriver
 
 * [Before you begin](BeforeYouBegin.md)
-* [Step-by-Step Assembly](StepByStepAssembly.md)
+* [Step-By-Step Assembly](StepByStepAssembly.md)
