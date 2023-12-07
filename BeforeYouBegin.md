@@ -21,7 +21,7 @@ MOBO - (Motherboard) - EX: ASUS ROG Strix Z790-F (LGA 1700) (There are many diff
         
 RAM - (Random-access memory) - EX: Corsair VENGEANCE DDR4 16gb (2x8) 3600mhz (16gb of RAM I would say is the sweet spot right now for the amount of RAM you need, but for just general school work and browsing, 8gb of RAM will work just fine also.)
 
-GPU - (Graphics Processing Unit) - EX: Nvida RTX 4060 8gb (This is a one of the newest graphics cards on the market today for a decent price, usually the most expensive part. But if your CPU does NOT come with integrated graphics, you will need a GPU, ESPICALLY while gaming or content creating!)
+GPU - (Graphics Processing Unit) - EX: Nvida RTX 4060 8gb (This is a one of the newest graphics cards on the market today for a decent price, usually the most expensive part. But if your CPU does NOT come with integrated graphics, you WILL need a GPU for your computer to work, ESPICALLY while gaming or content creating!)
 
 STORAGE - (M.2, SSD, HDD) - EX: Samsung 980 PRO 1tb (I personally would go with a 1tb M.2 drive over any SSD or HDD drive anyday, due to the fact the drive is very small, the read and write speeds are extremely fast compared to the other types of drives, and it's easy to install on the motherboard.)
 
