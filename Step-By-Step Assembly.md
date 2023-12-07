@@ -77,7 +77,7 @@ Step 13.2: Follow the steps on Microsoft's website to download the windows media
 
 Step 13.3: After the program installs the Windows Media Installation on the USB thumbdrive, you can remove it from your computer and go plug it into your new desktop you just built.
 
-Step 14: After plugging in your windows installation media usb to your computer, you can power on your computer and with the USB inserted.
+Step 14: After plugging in your windows installation media usb to your new computer, you can power it on and with the USB inserted.
 
 Step 14.1: You should start to see the startup process from Windows and it's pretty simple from here.
 
