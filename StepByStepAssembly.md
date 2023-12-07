@@ -86,4 +86,4 @@ Step 14.3: After a few potential restarts by Windows, you should be on the home 
 
 # You have now successfully completed installing Windows, and now you can use your new PC! 
 
-*[Continue to the Drivers and Updates Markdown page](Drivers&Updates.md)
+[Continue to the Drivers and Updates Markdown page](Drivers&Updates.md)
