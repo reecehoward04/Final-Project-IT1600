@@ -6,9 +6,9 @@ This link will take you to Microsoft's website that will guide you on picking ou
 
 # Step 2: Purchase all necessary computer parts:
 
-I recommend buying most of your parts from [Amazon](https://www.amazon.com/), [Newegg](https://www.newegg.com/), or [MicroCenter](https://www.microcenter.com/).
+I recommend buying most of your parts from [Amazon](https://www.amazon.com/), [Newegg](https://www.newegg.com/), or [Micro Center](https://www.microcenter.com/).
 
-The website [PCPARTPICKER](https://pcpartpicker.com/) is a really good website that allows you to pick out all your parts and shows specific requirments you need so all your PC parts you buy are compatible! They also link you the cheapest website you can buy the parts from, which is usually one of the three sites I provided above.
+The website [PCPARTPICKER](https://pcpartpicker.com/) is a really good website that allows you to pick out all your parts and shows specific requirments you need so all your PC parts you buy are compatible! They also link you the cheapest websites you can buy the parts from, which is usually one of the three sites I provided above.
 
 # Parts you will need!
 
