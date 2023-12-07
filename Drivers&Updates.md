@@ -25,3 +25,14 @@ Step 2: Depending on what graphics card you get, NVIDIA or AMD, both provide a s
 * [NVIDIA GEFORCE EXPERIENCE](https://www.nvidia.com/en-us/geforce/geforce-experience/)
 * [AMD RADEON SOFTWARE](https://www.amd.com/en/technologies/software)
 
+Step 3: After downloading your specific software, make sure you install the software on your computer.
+
+Step 4: Once your installation of the software is complete, you should be given a little tour through the software on how to update your graphics drivers, overclocking, and any other features you may want to use.
+
+Step 5: Download and update your graphics card drivers.
+
+Step 6: Let your new graphics card drivers install, your PC may restart when this happens.
+
+# And finally, after building, troubleshooting, installing new drivers & updates, you are now ready to use your computer! 
+
+[Back to README](README.md)
