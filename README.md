@@ -2,7 +2,7 @@
 # By: Reece Howard
 
 My final project will be about how to build a desktop computer from start to finish.
-I'm going to be explaining all the parts and components you will need to build the PC, what you should be doing when building, and what you will need to do after the first time booting your computer.
+I'm going to be explaining all the parts and components you will need to build the PC, what you should be doing while building, and what you will need to do after the first time booting your computer.
 
 # Target Audience
 
