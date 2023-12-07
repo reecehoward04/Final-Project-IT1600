@@ -12,7 +12,7 @@ Step 3: Let Windows finish their updates. (Your PC may restart a couple times)
 
 # BIOS Update
 
-Step 1: This varies from motherboard to motherboard on where you will be downloading your new BIOS updates, how you get access to your motherboards BIOS and how to propery install the new BIOS file.
+Step 1: This varies from motherboard to motherboard on where you will be downloading your new BIOS updates, how you get access to your motherboards BIOS and how to propery install new BIOS drivers.
 
 Step 2: At this point, I would look up your EXACT make and model motherboard on the manufactures website, and they should have a list of instructions on how to install your new BIOS update properly. (IMPORTANT: When your PC starts the BIOS update, it is critical that your PC does NOT lose power while in the middle of the update. This could lead to your PC files becoming corrupted and some things unusable, even your OS.) 
 
