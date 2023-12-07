@@ -7,3 +7,4 @@ Tools Requried: Philips #2 Screwdriver
 
 * [Before you begin](BeforeYouBegin.md)
 * [Step-By-Step Assembly](StepByStepAssembly.md)
+* [Drivers and Updates](Drivers&Updates.md)
