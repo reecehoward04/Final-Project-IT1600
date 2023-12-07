@@ -6,6 +6,10 @@ This link will take you to Microsoft's website that will guide you on picking ou
 
 # Step 2: Purchase all necessary computer parts:
 
+I recommend buying most of your parts from [Amazon](https://www.amazon.com/), [Newegg](https://www.newegg.com/) or [MicroCenter](https://www.microcenter.com/)
+
+But the website [PCPARTPICKER](https://pcpartpicker.com/) is a really good website that allows you to pick out all your parts and shows specific requirments you need so all your PC parts you buy are compatible! They also link you the cheapest website you can buy the parts from, which is usually one of the three sites I provided above.
+
 CPU - (Central Processing Unit) - EX: Intel Core i5-14600KF (This is the brain of the computer that pretty much tells all the other components in your build what they need to do! The newest generation of Intel processors released this year, and the i5 is a great choice for whatever you might be doing!)
 
 CPU Cooler - EX: NZXT Kraken 240mm AIO CPU Cooler (There are multiple ways you can cool your CPU, mainly air-cooling or liquid-cooling. Liquid cooling tends to be more effiencent at keeping your CPU cool compared to a stock fan CPU cooler you might get with your processor. Nowadays AIO (All-In-One) cpu coolers make it very easy to install and setup, compared to when you bought and installed flexible tubing and you had to 
