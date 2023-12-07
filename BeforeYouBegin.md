@@ -1,4 +1,4 @@
-#Before You Begin:
+# Before You Begin:
 
 Step 1: Decide on your budget, what you will overall be doing (gaming, content creation, school, general use), and research what parts would handle your needs best.
 
